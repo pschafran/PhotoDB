@@ -25,4 +25,4 @@ php -S localhost:8000 -c php.ini
 5. Open interface in browser.
 http://localhost:8000/index.php
 
-### NOTE: Files will be added in the `DB` in subdirectories with the date uploaded. 
+### NOTE: Files will be added in the `DB` in subdirectories with the date uploaded. Files with the same name can't be uploaded on the same day.
